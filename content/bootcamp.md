@@ -1,0 +1,63 @@
+---
+title: Bootcamp Learning Objectives
+description: Learning objectives for the Willston Web coding bootcamp
+---
+
+## Day 1
+
+Students will:
+
+- Receive a computer
+- Create a GitHub account
+- Understand that file and folders can be saved locally[^1]
+- Understand the basics of HTML
+  - Document structure
+  - What is a tag?
+  - Indentation
+- Log in to [freeCodeCamp] and complete steps 1-10 of the [(New) Responsive Web
+  Design]'s first project, Learn HTML by Building a Cat Photo App
+
+[(New) Responsive Web Design]: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+[^1]: Believe it or not, many students who have grown up with cloud-first
+storage do not understand local files or folders. See "[File Not Found]" from
+_The Verge_.
+
+[File Not Found]: https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z
+
+[freeCodeCamp]: https://freecodecamp.org
+
+## Day 2
+
+Students will:
+
+- Be able to manage expectations as a software developer
+- Know how to efficiently search for answers using the internet
+- Complete steps 11-25 of freeCodeCamp's (New) Responsive Web Design course's
+  first project, Learn HTML by Building a Cat Photo App
+
+## Day 3
+
+Students will:
+
+- Be able to use inline CSS to change the color of text
+- Complete steps 26-40 of freeCodeCamp's (New) Responsive Web Design course's
+  first project, Learn HTML by Building a Cat Photo App
+
+## Day 4
+
+Students will:
+
+- Be able to link external CSS to an HTML file
+- Complete steps 41-55 of freeCodeCamp's (New) Responsive Web Design course's
+  first project, Learn HTML by Building a Cat Photo App
+
+## Day 5
+
+Students will:
+
+- Be able to open up the browser tools to learn how other websites are made
+- Finish steps 56-67 of freeCodeCamp's (New) Responsive Web Design course's
+  first project, Learn HTML by Building a Cat Photo App
+- Start steps 1-5 of freeCodeCamp's (New) Responsive Web Design course's
+  second project, Learn Basic CSS by Building a Cafe Menu
