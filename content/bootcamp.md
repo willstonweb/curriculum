@@ -3,9 +3,18 @@ title: Bootcamp Learning Objectives
 description: Learning objectives for the Willston Web coding bootcamp
 ---
 
-## Day 1
+## Week 1
 
-Students will:
+After week 1, students will have:
+
+- Learned the basics of HTML by building a website about cats
+- Started the second project of freeCodeCamp's (New) Responsive Web Design
+  course and be able to continue on their own
+- Learned about the fundamentals of CSS
+
+### Day 1
+
+After day 1, students will:
 
 - Receive a computer
 - Create a GitHub account
@@ -27,34 +36,34 @@ _The Verge_.
 
 [freeCodeCamp]: https://freecodecamp.org
 
-## Day 2
+### Day 2
 
-Students will:
+After day 2, students will:
 
 - Be able to manage expectations as a software developer
 - Know how to efficiently search for answers using the internet
 - Complete steps 11-25 of freeCodeCamp's (New) Responsive Web Design course's
   first project, Learn HTML by Building a Cat Photo App
 
-## Day 3
+### Day 3
 
-Students will:
+After day 3, students will:
 
 - Be able to use inline CSS to change the color of text
 - Complete steps 26-40 of freeCodeCamp's (New) Responsive Web Design course's
   first project, Learn HTML by Building a Cat Photo App
 
-## Day 4
+### Day 4
 
-Students will:
+After day 4, students will:
 
 - Be able to link external CSS to an HTML file
 - Complete steps 41-55 of freeCodeCamp's (New) Responsive Web Design course's
   first project, Learn HTML by Building a Cat Photo App
 
-## Day 5
+### Day 5
 
-Students will:
+After day 5, students will:
 
 - Be able to open up the browser tools to learn how other websites are made
 - Finish steps 56-67 of freeCodeCamp's (New) Responsive Web Design course's
