@@ -1,6 +1,7 @@
 baseURL = 'https://willston.org/curriculum'
 canonifyURLs = true
 enableGitInfo = true
+pygmentsUseClasses = true
 
 [markup.goldmark.renderer]
   unsafe = true
