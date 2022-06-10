@@ -34,13 +34,14 @@ code {
   overflow: auto;
 }
 
-nav, nav h1{
+.sidebar, .sidebar h1 {
   font-size: 1em;
 }
 
 pre, code {
   background-color: #eee;
   border-radius: 5px;
+  border: 1px solid;
 }
 
 pre {
@@ -58,6 +59,7 @@ code {
 pre code {
   margin: 0;
   padding: 0;
+  border: none;
 }
 
 iframe {
@@ -75,27 +77,44 @@ iframe {
   padding-bottom: 56.25%;
 }
 
+details {
+  border: 1px solid;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+
+details > summary {
+  cursor: pointer;
+  user-select: none;
+  font-weight: bold;
+}
+
+#TableOfContents ul {
+  margin-top: .5em;
+}
+
 @media screen and (prefers-color-scheme: dark) {
   body {
-    background-color: #111;
+    background-color: #000;
   }
   a {
     color: #fff;
   }
-  pre, code {
-    background-color: #000;
+  pre, code, details {
+    background-color: #111;
   }
 }
 
 @media screen and (min-width:1100px) {
-  nav {
+  .sidebar {
     position: absolute;
     margin-top: 0.5em;
     right: 50%;
     margin-right: 340px !important;
   }
 
-  nav hr {
+  .sidebar hr {
     display: none;
   }
 }
