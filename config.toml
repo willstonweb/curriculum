@@ -5,3 +5,5 @@ pygmentsUseClasses = true
 
 [markup.goldmark.renderer]
   unsafe = true
+[markup.tableOfContents]
+  endLevel = 2
