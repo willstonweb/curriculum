@@ -12,7 +12,7 @@ After week 1, students will have:
   course and be able to continue on their own
 - Learned about the fundamentals of CSS
 
-## [Day 1](/bootcamp/1)
+### [Day 1](/bootcamp/1)
 
 After day 1, students will:
 
