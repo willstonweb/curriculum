@@ -11,8 +11,11 @@ body {
 }
 
 a {
-  font-weight: 500;
   color: #000;
+}
+
+p a {
+    font-weight: 500;
 }
 
 h1 {
@@ -90,7 +93,7 @@ details > summary {
   font-weight: bold;
 }
 
-#TableOfContents ul {
+details ul {
   margin-top: .5em;
 }
 
