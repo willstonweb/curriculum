@@ -36,7 +36,7 @@ _The Verge_.
 
 [freeCodeCamp]: https://freecodecamp.org
 
-### Day 2
+### [Day 2](/bootcamp/2)
 
 After day 2, students will:
 
