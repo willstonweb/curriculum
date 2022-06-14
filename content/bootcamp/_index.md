@@ -23,7 +23,7 @@ After day 1, students will:
   - Document structure
   - What is a tag?
   - Indentation
-- Log in to [freeCodeCamp] and complete steps 1-10 of the [(New) Responsive Web
+- Log in to [freeCodeCamp] and complete steps 1-6 of the [(New) Responsive Web
   Design]'s first project, Learn HTML by Building a Cat Photo App
 
 [(New) Responsive Web Design]: https://www.freecodecamp.org/learn/2022/responsive-web-design/
@@ -42,7 +42,7 @@ After day 2, students will:
 
 - Be able to manage expectations as a software developer
 - Know how to efficiently search for answers using the internet
-- Complete steps 11-25 of freeCodeCamp's (New) Responsive Web Design course's
+- Complete steps 7-25 of freeCodeCamp's (New) Responsive Web Design course's
   first project, Learn HTML by Building a Cat Photo App
 
 ### Day 3
