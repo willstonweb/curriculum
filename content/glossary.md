@@ -43,7 +43,29 @@ description: Willston Web Coding Bootcamp glossary
     <img src="http://www.superchickenfallschurch.com/wp-content/uploads/2014/12/logo.png" alt="Super Chicken Falls Church logo">
     ```
 
+#### `Opening Bracket`
+
+- This symbol is used at the _beginning_ of very [tag](#tag)
+- It is also known as the 'less than sign' in math and is sometimes referred to
+  as a 'left angle bracket'
+```html
+<
+```
+
+#### `Closing Bracket`
+
+- This sybmol is used at the _end_ of every [tag](#tag)
+- It is known as the 'greater than sign' in math and is sometimes referred to as
+  a 'right angle bracket'
+```html
+>
+```
+
 ### `Element`
+
+> To see all valid `HTML` elements, visit
+> https://developer.mozilla.org/en-US/docs/Web/HTML/Element or search for
+> `mozilla elements` in a search engine
 
 - An HTML item that has a specific that usually has opening and
   closing tags. Elements can be nested inside of other elements. Example:
@@ -56,16 +78,52 @@ description: Willston Web Coding Bootcamp glossary
     </body>
     ```
 
+#### `Parent Element`
+
+- Any element that has other elements inside its [opening](#opening-tag) and
+  [closing tags](#closing-tag) is a **parent element**
+  - In this example, `<main></main>` is the **parent element**
+    ```html
+    <main>
+      <h1>My Website</h1>
+      <h2>By Ricardo</h2>
+      <p>Welcome to my website; I am happy you are here.</p>
+      <img src="https://www.example.com/images/logo.png" alt="Ricardo Logo">
+    </main>
+    ```
+
+#### `Child Element`
+
+- Any element inside the opening and closing tags of another element is a
+  **child element**
+    - In example below, each of the following are child elements:
+      - `<h1></h1>`
+      - `<h2></h2>`
+      - `<p></p>`
+      - `<img>`
+    ```html
+    <main>
+      <h1>My Website</h1>
+      <h2>By Ricardo</h2>
+      <p>Welcome to my website, I am happy you are here</p>
+      <img src="https://www.ricardowebsite.com" alt="Ricardo Logo">
+    </main>
+    ```
+
 ### `Attribute`
+
+> To see all valid `HTML` attributes , visit
+> https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes or search for
+> `mozilla attributes` in a search engine
 
 - A piece of information about the element. It goes in the opening tag and are
   separated with spaces. An `=` should immediately follow and the `value` should
-  be surrounded by `"` on each side. Example:
+  be surrounded by `"` on each side. In the following example, `href` and
+  `target` are both attributes. The values are `https://www.google.com` and
+  `_blank`
     ```html
     <a href="https://www.google.com" target="_blank">
     ```
-- The attributes are `href` and `target`
-- The values are `https://www.google.com` and `_blank`
 
 ### `Comment`
 
@@ -146,6 +204,61 @@ description: Willston Web Coding Bootcamp glossary
         <p>Super Chicken</p>
     </section>
     ```
+- `<figure>` = used to group elements such as photos and special documents
+  - `<figcaption>` = is normally a [child element](#child-element) of `<figure>`
+  ```html
+    <figure>
+      <img src="https://order.subway.com/en-us/-/media/Project/Remote-Order/Images/Logo/subway-logo.png" alt="Subway logo">
+      <figcaption>Subway logo</figcaption>
+    </figure>
+  ```
+- `<strong></strong>` = all the text between this element will be **BOLDED**.
+  ```
+  <strong>This text will display bold</strong>
+  ```
+
+   <strong>This text will display bold</strong>
+
+- `<em></em>` = all the text between this element will be _emphasized_.
+  ```html
+  <em>This text will display emphasized</em>
+  ```
+
+  <em>This text will display emphasized</em>
+
+- `<li></li>` = list item element. Typically the [child](#child-element) of an
+  ordered or unordered list.
+  - The item will appear as a bullet by default unless in an ordered list
+  ```html
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+  ```
+- `<ul></ul>` = unordered list element. Is the [parent](#parent-element) of a group of list items
+  - The list items will have bullets in front of them.
+  ```html
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+  ```
+- `<ol></ol>` = ordered list element. Is the [parent](#parent-element) of a group of list items.
+  - The list items will have numbers in front of them.
+  ```
+    <ol>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ol>
+    ```
+- `<form></form>` = [parent](#parent-element) element for all elements that are
+  apart of a web form.
+- `<input>` = [self-closing](#self-closing-tag) tag that is used for different
+  types of user input on a web form. It is typically a [child](#child-element)
+  element of `<form>`.
+- `<button></button>` = A button element used on a website for clicks and
+  actions
 
 ## Attributes
 
@@ -175,3 +288,35 @@ description: Willston Web Coding Bootcamp glossary
     ```html
     target="_blank"
     ```
+
+### `width` & `height`
+
+- Used to determine how much width or height content can take up of a
+  [parent](#parent-element) element or the screen.
+  - can be written in `px` (pixels) or `%` of the space.
+  ```html
+  <img width="50%" height="50%">
+  <img width="400px" height="400px">
+  ```
+
+### `action`
+
+- Where website input should be sent to after a form is submitted
+  ```html
+  <form action="https://willston.org/submit">
+  ```
+
+### `type`
+
+- For an `<input>` element, what type of input should be entered (text,
+  checkbox, radio button)?
+  ```html
+  <input type="radio">
+  ```
+
+### `value`
+
+- Specifies the value of an `<input>` element
+  ```html
+  <input type="radio" value="yes">
+  ```
