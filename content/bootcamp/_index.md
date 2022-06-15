@@ -45,7 +45,7 @@ After day 2, students will:
 - Complete steps 7-25 of freeCodeCamp's (New) Responsive Web Design course's
   first project, Learn HTML by Building a Cat Photo App
 
-### Day 3
+### [Day 3](/bootcamp/3)
 
 After day 3, students will:
 
