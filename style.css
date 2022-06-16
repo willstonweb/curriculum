@@ -97,6 +97,10 @@ details ul {
   margin-top: .5em;
 }
 
+img {
+  max-width: 100%;
+}
+
 @media screen and (prefers-color-scheme: dark) {
   body {
     background-color: #000;
