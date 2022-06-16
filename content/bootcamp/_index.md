@@ -42,23 +42,24 @@ After day 2, students will:
 
 - Be able to manage expectations as a software developer
 - Know how to efficiently search for answers using the internet
-- Complete steps 7-25 of freeCodeCamp's (New) Responsive Web Design course's
+- Complete steps 7-13 of freeCodeCamp's (New) Responsive Web Design course's
   first project, Learn HTML by Building a Cat Photo App
 
 ### [Day 3](/bootcamp/3)
 
 After day 3, students will:
 
-- Be able to use inline CSS to change the color of text
-- Complete steps 26-40 of freeCodeCamp's (New) Responsive Web Design course's
+- Be able to describe the difference between tags and elements
+- Complete steps 13-18 of freeCodeCamp's (New) Responsive Web Design course's
   first project, Learn HTML by Building a Cat Photo App
 
-### Day 4
+### [Day 4](/bootcamp/4)
 
 After day 4, students will:
 
-- Be able to link external CSS to an HTML file
-- Complete steps 41-55 of freeCodeCamp's (New) Responsive Web Design course's
+- Be able to explain attributes and the difference between parent and child
+  elements
+- Complete steps 19-41 of freeCodeCamp's (New) Responsive Web Design course's
   first project, Learn HTML by Building a Cat Photo App
 
 ### Day 5
