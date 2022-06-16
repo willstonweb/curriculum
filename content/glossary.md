@@ -320,3 +320,62 @@ description: Willston Web Coding Bootcamp glossary
   ```html
   <input type="radio" value="yes">
   ```
+
+## Prizes
+
+### $200
+
+Any student who completes the [first module](#module) of [freeCodeCamp's (New) Responsive
+Web Design Certificate] will receive $200 and be able to keep their laptop.
+
+[freeCodeCamp's (New) Responsive Web Design Certificate]: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+### New MacBook Air
+
+The three students who complete the most steps in freeCodeCamp's (New)
+Responsive Web Design Certificate will trade in their assigned laptop for a
+brand new MacBook Air.
+
+The student who completes the most steps will receive an additional $200 to the
+$200 prize for a total of $400.
+
+The student who completes the second most steps will receive an additional $100
+to the $200 prize for a total of $300.
+
+The student who completes the third most steps will not receive additional money
+to the $200 prize for a total of $200.
+
+### Additional $100 and a Trip to Busch Gardens
+
+If every student who completes the one week bootcamp completes the first module
+of freeCodeCamp's (New) Responsive Web Design Certificate, everyone will receive
+an additional $100 and have the option to take a trip to Busch Gardens.
+
+### Clarifying Terms
+
+#### Certificate
+
+The certificate is the 300 hour curriculum, such as the (New) Responsive Web
+Design Certificate.
+
+#### Course
+
+A course is the next largest block of curriculum to a certificate, such as the
+Learn HTML by Building a Cat Photo App course.
+
+#### Lesson
+
+A lesson is the next largest block of curriculum to a course, such as the first
+step of the Learn HTML by Building a Cat Photo App.
+
+#### Module
+
+A module is a group of courses that ends in a certificate project. The first
+module of freeCodeCamp's (New) Responsive Web Design Certificate includes the
+following:
+
+- The "Learn HTML by Building a Cat Photo App" course
+- The "Learn Basic CSS by Building a Cafe Menu" course
+- The "Learn CSS Colors by Building a Set of Colored Markers" course
+- The "Learn HTML forms by Building a Registration Form" course
+- The "Survey Form" certification project
