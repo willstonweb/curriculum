@@ -325,10 +325,10 @@ description: Willston Web Coding Bootcamp glossary
 
 ### $200
 
-Any student who completes the [first module](#module) of [freeCodeCamp's (New) Responsive
+Any student who completes the [first module](#module) of [freeCodeCamp\'s (New) Responsive
 Web Design Certificate] will receive $200 and be able to keep their laptop.
 
-[freeCodeCamp's (New) Responsive Web Design Certificate]: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+[freeCodeCamp\'s (New) Responsive Web Design Certificate]: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 ### New MacBook Air
 
